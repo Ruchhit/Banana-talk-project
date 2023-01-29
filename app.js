@@ -1,1 +1,2 @@
- var clk=document.querySelector("#Click");
+ var clk=document.querySelector("#clck");
+ console.log(clk)
